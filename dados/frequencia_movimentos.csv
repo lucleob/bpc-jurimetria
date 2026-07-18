@@ -1,0 +1,217 @@
+codigo,nome,ocorrencias
+85,Petição,7007
+60,Expedição de documento,5128
+51,Conclusão,4548
+123,Remessa,4488
+12265,Expedida/certificada,3939
+581,Documento,3565
+50149,,2903
+26,Distribuição,2472
+977,Recebimento,2200
+22,Baixa Definitiva,2102
+11010,Mero expediente,2081
+1051,Decurso de Prazo,2076
+12266,Confirmada,1880
+12264,Eletrônica,1828
+11383,Ato ordinatório,1665
+12282,Expedida/Certificada,1430
+12185,Decisão Interlocutória de Mérito,1126
+12215,Processo devolvido à Secretaria,1081
+132,Recebimento,1040
+982,Remessa,844
+848,Trânsito em julgado,807
+50146,,750
+36,Redistribuição,656
+92,Publicação,548
+220,Improcedência,515
+50151,,513
+981,Recebimento,498
+246,Definitivo,427
+50147,,420
+106,Mandado,384
+1061,Disponibilização no Diário da Justiça Eletrônico,319
+985,Mandado,296
+239,Não-Provimento,292
+219,Procedência,292
+14736,Inclusão no Juízo 100% Digital,290
+787,Gratuidade da Justiça,276
+866,Guarda Intermediária,269
+12252,Sentença confirmada,266
+461,Ausência das condições da ação,255
+339,Liminar,255
+12165,Requisição de Pagamento,224
+50152,,206
+50129,,193
+12164,Outras Decisões,180
+10966,Mudança de Classe Processual,172
+12176,Paga,155
+12174,Enviada ao Tribunal,152
+196,Extinção da execução ou do cumprimento da sentença,142
+442,Segurança,133
+50120,,126
+12291,Movimentação processual,118
+500024,,115
+14904,Agendada,114
+454,Indeferimento da petição inicial,105
+849,Reativação,105
+792,Liminar,102
+14738,Retificação de Classe Processual,101
+459,Ausência de pressupostos processuais,95
+12287,Expedida/Certificada,93
+12268,Em Secretaria,92
+978,Remessa,90
+12105,Inclusão do processo para julgamento eletrônico,89
+50110,,88
+218,Sem Resolução de Mérito,85
+987,Ofício,84
+446,Segurança,71
+941,Incompetência,71
+493,Entrega em carga/vista,69
+200,Não-Acolhimento de Embargos de Declaração,65
+12263,Intimação,62
+463,Desistência,62
+785,Antecipação de tutela,61
+12066,Cumprimento de Levantamento da Suspensão ,61
+466,Homologação de Transação,59
+898,Por decisão judicial,59
+237,Provimento,48
+432,Recurso Extraordinário,46
+488,Cancelamento de Distribuição,46
+12175,Preparada para Envio,46
+12142,Mudança de Parte,44
+50104,,43
+221,Procedência em Parte,41
+970,Audiência,40
+12648,Determinação de Diligência,36
+14739,Evolução da Classe Processual,35
+11020,Requisição de Informações,34
+11022,Julgamento em Diligência,33
+206,Admissão,32
+332,Antecipação de tutela,32
+15101,Conclusão,29
+12143,Mudança de Assunto Processual,28
+190,Reforma de decisão anterior,25
+50107,,25
+12614,Remessa para o CEJUSC ou Centros de Conciliação/Mediação,24
+50081,,24
+12288,Confirmada,24
+11024,Assistência Judiciária Gratuita,24
+207,Não-Admissão,23
+12167,Enviada ao Tribunal,22
+15085,Emenda à Inicial,22
+12200,Mérito,21
+50106,,21
+235,Não Conhecimento de recurso,20
+50109,,19
+12270,Documento,19
+892,Liminar,18
+12254,Sentença desconstituída,17
+460,"Perempção, litispendência ou coisa julgada",16
+870,Autos Eliminados,15
+238,Provimento em Parte,14
+12267,Em audiência,14
+450,Segurança,13
+12067,Levantamento da Suspensão ou Dessobrestamento,13
+12621,Recebimento no CEJUSC ou Centros de Conciliação/Mediação,13
+12619,Recebimento do CEJUSC ou Centros de Conciliação/Mediação,13
+1059,Sem efeito suspensivo,12
+11983,Retificação de movimento,12
+458,Abandono da causa,12
+50004,,12
+236,Negação de Seguimento,12
+265,Recurso Extraordinário com repercussão geral,12
+12740,de Conciliação,12
+1063,Determinação de arquivamento de procedimentos investigatórios,11
+16,Cálculo,10
+456,Extinção,10
+198,Acolhimento de Embargos de Declaração,10
+804,Recurso,9
+867,Guarda Permanente,9
+14737,Exclusão do Juízo 100% Digital,9
+50125,,8
+893,Desarquivamento,8
+12283,Confirmada,8
+12104,Inclusão em pauta,7
+50112,,7
+12281,Comunicação eletrônica,7
+50126,,7
+12387,Decisão de Saneamento e Organização,7
+471,Pronúncia de Decadência ou Prescrição,6
+15248,,6
+14906,Cancelada,6
+972,Provimento (art. 557 do CPC),6
+12204,Pedido de Vista,5
+50140,,5
+12169,Paga,5
+12548,Expedição de alvará de levantamento,5
+947,Por pendência de AIREsp,5
+12319,Não conhecimento do pedido,5
+334,Gratuidade da Justiça,4
+245,Provisório,4
+12749,de Instrução,4
+15216,,4
+889,Antecipação de Tutela,4
+50143,,4
+135,Apensamento,4
+11378,Incompetência territorial,4
+11373,Anulação de sentença/acórdão,4
+12750,de Instrução e Julgamento,4
+12454,Pedido de Uniformização de Interpretação de Lei,4
+137,Desapensamento,4
+15103,Gratuidade da Justiça,3
+14907,Reagendada,3
+50142,,3
+12271,Petição,3
+12255,Redistribuição por prevenção,3
+12203,Adiado,3
+11023,Concessão,3
+11376,Ausência do autor à audiência,3
+12430,Arquivamento,3
+12272,Declinada a competência,3
+871,Acolhimento em parte de Embargos de Declaração,3
+230,Recurso prejudicado,3
+944,Desistência de Recurso,3
+12205,Retirado,2
+50145,,2
+12306,Perito,2
+50105,,2
+14902,Perícia,2
+50124,,2
+14732,Conversão de Autos Físicos em Eletrônicos,2
+12168,Preparada para Envio,2
+14848,Ausência de Requerimento Administrativo Prévio,2
+12296,Registro Processual,2
+980,Remessa,2
+12330,Pedido conhecido em parte e procedente em parte,2
+12172,Suspensão,2
+14908,Não Realizada,2
+348,Liminar,2
+272,"A depender do julgamento de outra causa, de outro juízo ou declaração incidente",2
+12258,Emissão de juízo de retratação pelo Órgão Julgador,2
+979,Recebimento,2
+50167,,2
+12261,Emenda a inicial,2
+50155,,1
+12457,Expedição de precatório/rpv,1
+383,Impugnação ao cumprimento de sentença,1
+50117,,1
+50115,,1
+12141,Relaxamento do Flagrante,1
+50128,,1
+11013,Convenção das Partes,1
+371,Incompetência,1
+429,Recurso extraordinário,1
+11018,Recebimento de Embargos à Execução,1
+897,Retirada de pauta,1
+12273,Convertido em diligência,1
+385,Com Resolução do Mérito,1
+12459,Prejudicado,1
+242,Conhecimento em Parte e Não-Provimento ou Denegação,1
+12455,Indeferimento,1
+83,Cancelamento da distribuição,1
+11795,Procedência do Pedido - Reconhecimento pelo réu,1
+15164,Não Acolhimento de Embargos de Declaração,1
+14232,Acolhimento,1
+12444,deferimento,1
+12284,Citação,1
+50132,,1
